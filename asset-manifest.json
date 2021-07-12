@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/dreamhouse/static/css/main.779b5f93.chunk.css",
+    "main.js": "/dreamhouse/static/js/main.e3fcaff3.chunk.js",
+    "main.js.map": "/dreamhouse/static/js/main.e3fcaff3.chunk.js.map",
+    "runtime-main.js": "/dreamhouse/static/js/runtime-main.7642a89f.js",
+    "runtime-main.js.map": "/dreamhouse/static/js/runtime-main.7642a89f.js.map",
+    "static/js/2.c0da82cb.chunk.js": "/dreamhouse/static/js/2.c0da82cb.chunk.js",
+    "static/js/2.c0da82cb.chunk.js.map": "/dreamhouse/static/js/2.c0da82cb.chunk.js.map",
+    "index.html": "/dreamhouse/index.html",
+    "static/css/main.779b5f93.chunk.css.map": "/dreamhouse/static/css/main.779b5f93.chunk.css.map",
+    "static/js/2.c0da82cb.chunk.js.LICENSE.txt": "/dreamhouse/static/js/2.c0da82cb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dreamhouse/static/media/Raleway-Thin.ce03083c.ttf",
+    "static/media/Project.css": "/dreamhouse/static/media/Vector2.5bf14f49.svg",
+    "static/media/Header.css": "/dreamhouse/static/media/menu-icon.de21b81a.svg",
+    "static/media/photo-1518733057094-95b53143d2a7.76496827.jfif": "/dreamhouse/static/media/photo-1518733057094-95b53143d2a7.76496827.jfif",
+    "static/media/photo-1523217582562-09d0def993a6.d926d7b0.jfif": "/dreamhouse/static/media/photo-1523217582562-09d0def993a6.d926d7b0.jfif",
+    "static/media/photo-1523755231516-e43fd2e8dca5.966e00e3.jfif": "/dreamhouse/static/media/photo-1523755231516-e43fd2e8dca5.966e00e3.jfif",
+    "static/media/photo-1556020685-ae41abfc9365.d905806d.jfif": "/dreamhouse/static/media/photo-1556020685-ae41abfc9365.d905806d.jfif",
+    "static/media/photo-1562438668-bcf0ca6578f0.13e607aa.jfif": "/dreamhouse/static/media/photo-1562438668-bcf0ca6578f0.13e607aa.jfif",
+    "static/media/photo-1564320382348-c06ae02a3897.8f2ef5fe.jfif": "/dreamhouse/static/media/photo-1564320382348-c06ae02a3897.8f2ef5fe.jfif",
+    "static/media/photo-1583329550487-0fa300a4cd1a.edf0f196.jfif": "/dreamhouse/static/media/photo-1583329550487-0fa300a4cd1a.edf0f196.jfif",
+    "static/media/photo-1583847268964-b28dc8f51f92.700f2f3b.jfif": "/dreamhouse/static/media/photo-1583847268964-b28dc8f51f92.700f2f3b.jfif",
+    "static/media/photo-1585128792020-803d29415281.7e7fdfc5.jfif": "/dreamhouse/static/media/photo-1585128792020-803d29415281.7e7fdfc5.jfif",
+    "static/media/photo-1586023492125-27b2c045efd7.0af27ee2.jfif": "/dreamhouse/static/media/photo-1586023492125-27b2c045efd7.0af27ee2.jfif",
+    "static/media/photo-1586105251261-72a756497a11.0ef95d85.jfif": "/dreamhouse/static/media/photo-1586105251261-72a756497a11.0ef95d85.jfif",
+    "static/media/photo-1616627451515-cbc80e5ece35.13982ebb.jfif": "/dreamhouse/static/media/photo-1616627451515-cbc80e5ece35.13982ebb.jfif",
+    "static/media/photo-1617978241112-898785df45b9.093568c2.jfif": "/dreamhouse/static/media/photo-1617978241112-898785df45b9.093568c2.jfif",
+    "static/media/photo-1618377385397-8eb9aba7d6ad.4e12c066.jfif": "/dreamhouse/static/media/photo-1618377385397-8eb9aba7d6ad.4e12c066.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7642a89f.js",
+    "static/js/2.c0da82cb.chunk.js",
+    "static/css/main.779b5f93.chunk.css",
+    "static/js/main.e3fcaff3.chunk.js"
+  ]
+}
