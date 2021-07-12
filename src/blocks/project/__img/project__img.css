@@ -1,0 +1,9 @@
+.project__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  grid-row-start: 1;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}

@@ -1,0 +1,35 @@
+.footer__title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 60px;
+  /* or 200% */
+  
+  text-align: center;
+  
+  color: #212121;
+  margin: 0;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .footer__title {
+    font-size: 18px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (min-width: 570px) and (max-width: 1024px) {
+  .footer__title {
+    font-size: 18px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 570px) {
+  .footer__title {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: start;
+  }
+}

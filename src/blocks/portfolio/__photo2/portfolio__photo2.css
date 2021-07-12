@@ -1,0 +1,28 @@
+.portfolio__photo2 {
+  height: 672px;
+  width: 997px;
+  margin: 0 auto;
+  object-fit: cover;
+  box-shadow: 0 0 24px rgba(0, 0, 0, .7);
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .portfolio__photo2 {
+    width: 628px;
+    height: 422px;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 1024px) {
+  .portfolio__photo2 {
+    width: 448px;
+    height: 342px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 640px) {
+  .portfolio__photo2 {
+    width: 240px;
+    height: 220px;
+  }
+}

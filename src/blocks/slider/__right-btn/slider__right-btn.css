@@ -1,0 +1,36 @@
+.slider__right-btn {
+  background-image: url(../../../images/Vector2.svg);
+  height: 18px;
+  width: 8px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 0;
+  background-color: #fff;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.slider__right-btn:hover {
+  opacity: .8;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .slider__right-btn {
+    height: 12px;
+    width: 6px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .slider__right-btn {
+    height: 12px;
+    width: 6px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .slider__right-btn {
+    height: 12px;
+    width: 6px;
+  }
+}

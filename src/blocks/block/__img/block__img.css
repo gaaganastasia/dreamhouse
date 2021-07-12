@@ -1,0 +1,33 @@
+.block__img {
+  width: 491px;
+  height: 558px;
+  object-fit: cover;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .block__img {
+    width: 291px;
+    height: 358px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .block__img {
+    width: 260px;
+    height: 310px;
+  }
+}
+
+@media screen and (min-width: 620px) and (max-width: 768px) {
+  .block__img {
+    width: 200px;
+    height: 280px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 620px) {
+  .block__img {
+    width: 80%;
+    height: 260px;
+  }
+}

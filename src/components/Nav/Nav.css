@@ -1,0 +1,5 @@
+@import url(../../blocks/nav/nav.css);
+@import url(../../blocks/nav/__link/nav__link.css);
+@import url(../../blocks/nav/__btn/nav__btn.css);
+@import url(../../blocks/nav/__links/nav__links.css);
+@import url(../../blocks/nav/__link/_light/nav__link_light.css);

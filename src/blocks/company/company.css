@@ -1,0 +1,29 @@
+.company {
+  display: flex;
+  background-color: #f9f9f9;
+  padding: 106px calc(25% / 2);
+  margin: 180px 0 0;
+  justify-content: space-between;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .company {
+    padding: 82px calc(25% / 2);
+    margin: 144px 0 0;
+  }
+}
+
+@media screen and (min-width: 520px) and (max-width: 1024px) {
+  .company {
+    padding: 44px 10%;
+    margin: 108px 0 0;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 520px) {
+  .company {
+    padding: 24px 5%;
+    margin: 48px 0 0;
+    flex-direction: column;
+  }
+}

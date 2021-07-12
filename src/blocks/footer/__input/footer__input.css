@@ -1,0 +1,47 @@
+.footer__input {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 55px;
+  /* or 344% */
+  padding-left: 26px;
+  background: #FFFFFF;
+  border: 1px solid #DFDFDF;
+  box-sizing: border-box;
+  outline: none;
+  
+  color: #646464;
+  width: 433px;
+  height: 55px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .footer__input {
+    width: 280px;
+    height: 35px;
+    padding-left: 16px;
+    font-size: 12px;
+    line-height: 35px;
+  }
+}
+
+@media screen and (min-width: 570px) and (max-width: 1024px) {
+  .footer__input {
+    width: 220px;
+    height: 35px;
+    padding-left: 22px;
+    font-size: 11px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 570px) {
+  .footer__input {
+    width: 70%;
+    height: 35px;
+    padding-left: 22px;
+    font-size: 11px;
+    line-height: 22px;
+  }
+}

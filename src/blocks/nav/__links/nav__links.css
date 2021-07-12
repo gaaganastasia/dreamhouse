@@ -1,0 +1,21 @@
+.nav__links {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(min-content, max-content));
+  column-gap: 48px;
+  align-content: center;
+  margin-right: 109px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .nav__links {
+    column-gap: 28px;
+    margin-right: 64px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .nav__links {
+    column-gap: 22px;
+    margin-right: 48px;
+  }
+}

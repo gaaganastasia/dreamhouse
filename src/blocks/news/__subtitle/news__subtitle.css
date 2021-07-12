@@ -1,0 +1,34 @@
+.news__subtitle {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 68px;
+  /* or 172% */
+  
+  text-align: center;
+  
+  color: #212121;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .news__subtitle {
+    font-size: 34px;
+    line-height: 48px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .news__subtitle {
+    font-size: 26px;
+    line-height: 32px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .news__subtitle {
+    font-size: 26px;
+    line-height: 28px;
+  }
+}

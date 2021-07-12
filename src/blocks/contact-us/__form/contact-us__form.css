@@ -1,0 +1,48 @@
+.contact-us__form {
+  display: grid;
+  width: calc(100% - 514px - 118px);
+  grid-template-rows: repeat(4, 96px);
+  grid-template-columns: repeat(2, calc((100% - 57px) / 2));
+  column-gap: 57px;
+  margin: 0 0 0 118px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .contact-us__form {
+    margin: 0 0 0 82px;
+    width: calc(100% - 322px - 82px);
+    grid-template-rows: repeat(4, 64px);
+    column-gap: 37px;
+    grid-template-columns: repeat(2, calc((100% - 37px) / 2));
+  }
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .contact-us__form {
+    margin: 0 0 0 52px;
+    width: calc(100% - 300px - 52px);
+    grid-template-rows: repeat(6, 54px);
+    grid-template-columns: repeat(1, 100%);
+  }
+}
+
+@media screen and (min-width: 580px) and (max-width: 768px) {
+  .contact-us__form {
+    margin: 28px 0 0;
+    width: 100%;
+    grid-template-rows: repeat(4, 64px);
+    column-gap: 37px;
+    grid-template-columns: repeat(2, calc((100% - 37px) / 2));
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 580px) {
+  .contact-us__form {
+    margin: 32px 0 0;
+    width: 100%;
+    grid-template-rows: repeat(6, 54px);
+    grid-template-columns: repeat(1, 90%);
+    max-width: 340px;
+  }
+}

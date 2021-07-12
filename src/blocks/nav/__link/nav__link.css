@@ -1,0 +1,29 @@
+.nav__link {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  
+  
+  color: #212121;
+  text-decoration: none;
+  transition: .3s;
+}
+
+.nav__link:hover {
+  opacity: .8;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .nav__link {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .nav__link {
+    font-size: 10px;
+  }
+}

@@ -1,0 +1,49 @@
+.main__contact-btn {
+  width: 196px;
+  height: 50px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  color: #FFFFFF;
+  background-color: #212121;
+  border: none;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.main__contact-btn:hover {
+  opacity: .8;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .main__contact-btn {
+    font-size: 12px;
+    line-height: 18px;
+    width: 128px;
+    height: 34px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .main__contact-btn {
+    font-size: 9px;
+    line-height: 18px;
+    width: 108px;
+    height: 28px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .main__contact-btn {
+    font-size: 9px;
+    line-height: 18px;
+    width: 108px;
+    height: 28px;
+    margin: 0 auto 0;
+  }
+}

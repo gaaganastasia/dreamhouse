@@ -1,0 +1,25 @@
+.block__img_services {
+  margin-right: 64px;
+  margin-left: 90px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .block__img_services {
+    margin-right: 22px;
+    margin-left: 45px;
+  }
+}
+
+@media screen and (min-width: 620px) and (max-width: 1024px) {
+  .block__img_services {
+    margin-right: 26px;
+    margin-left: 45px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 620px) {
+  .block__img_services {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}

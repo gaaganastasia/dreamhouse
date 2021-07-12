@@ -1,0 +1,28 @@
+.block__background_about-us {
+  bottom: -54px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .block__background_about-us {
+    bottom: -28px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .block__background_about-us {
+    bottom: -26px;
+  }
+}
+
+@media screen and (min-width: 620px) and (max-width: 768px) {
+  .block__background_about-us {
+    bottom: -18px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 620px) {
+  .block__background_about-us {
+    top: 128px;
+    left: 0;
+  }
+}

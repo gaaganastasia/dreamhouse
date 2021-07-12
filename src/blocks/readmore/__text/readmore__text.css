@@ -1,0 +1,18 @@
+.readmore__text {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+  
+  
+  color: #000000;
+  margin: 0;
+}
+
+@media screen and (min-width: 320px) and (max-width: 1720px) {
+  .readmore__text {
+    font-size: 12px;
+  }
+}

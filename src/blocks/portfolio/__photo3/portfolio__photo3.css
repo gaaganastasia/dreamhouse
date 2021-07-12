@@ -1,0 +1,29 @@
+.portfolio__photo3 {
+  position: absolute;
+  right: 0;
+  height: 392px;
+  object-fit: cover;
+  z-index: -1;
+  width: 480px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .portfolio__photo3 {
+    width: 320px;
+    height: 290px;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 1024px) {
+  .portfolio__photo3 {
+    width: 428px;
+    height: 232px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 640px) {
+  .portfolio__photo3 {
+    width: 200px;
+    height: 180px;
+  }
+}

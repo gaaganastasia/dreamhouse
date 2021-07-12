@@ -1,0 +1,48 @@
+.main__left-btn {
+  background-color: #212121;
+  border: none;
+  width: 11px;
+  height: 28px;
+  cursor: pointer;
+  color: #fff;
+  padding: 0;
+  line-height: 28px;
+  font-size: 28px;
+  font-family: Raleway;
+  position: absolute;
+  bottom: 44px;
+  left: 128px;
+  opacity: .5;
+  transition: .3s;
+}
+
+.main__left-btn:hover {
+  opacity: .8;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .main__left-btn {
+    line-height: 22px;
+    font-size: 22px;
+    bottom: 24px;
+    left: 60px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .main__left-btn {
+    line-height: 18px;
+    font-size: 18px;
+    bottom: 18px;
+    left: 60px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .main__left-btn {
+    background-color: rgba(0, 0, 0, .0);
+    top: 45%;
+    left: 5%;
+    font-size: 32px;
+  }
+}

@@ -1,0 +1,7 @@
+@import url(../../blocks/company/company.css);
+@import url(../../blocks/company/__title/company__title.css);
+@import url(../../blocks/company/__text/company__text.css);
+@import url(../../blocks/company/__subtitle/company__subtitle.css);
+@import url(../../blocks/company/__line/company__line.css);
+@import url(../../blocks/company/__header/company__header.css);
+@import url(../../blocks/company/__container/company__container.css);

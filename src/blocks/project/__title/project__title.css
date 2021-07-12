@@ -1,0 +1,34 @@
+.project__title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  /* or 125% */
+  
+  
+  color: #000000;
+  margin: 0;
+  align-self: flex-end;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .project__title {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .project__title {
+    font-size: 15px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .project__title {
+    font-size: 14px;
+    line-height: 14px;
+  }
+}

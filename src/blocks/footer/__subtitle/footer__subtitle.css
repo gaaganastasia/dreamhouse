@@ -1,0 +1,36 @@
+.footer__subtitle {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 40px;
+  /* or 200% */
+  
+  text-align: center;
+  
+  color: #646464;
+  margin: 0;
+
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1720px) {
+  .footer__subtitle {
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
+
+@media screen and (min-width: 570px) and (max-width: 1024px) {
+  .footer__subtitle {
+    font-size: 11px;
+    line-height: 20px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 570px) {
+  .footer__subtitle {
+    font-size: 11px;
+    line-height: 18px;
+    text-align: start;
+  }
+}
