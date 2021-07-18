@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dreamhouse/static/css/main.be13f410.chunk.css",
+    "main.css": "/dreamhouse/static/css/main.bbb95d1f.chunk.css",
     "main.js": "/dreamhouse/static/js/main.44291a91.chunk.js",
     "main.js.map": "/dreamhouse/static/js/main.44291a91.chunk.js.map",
     "runtime-main.js": "/dreamhouse/static/js/runtime-main.7642a89f.js",
@@ -8,7 +8,7 @@
     "static/js/2.51da76fd.chunk.js": "/dreamhouse/static/js/2.51da76fd.chunk.js",
     "static/js/2.51da76fd.chunk.js.map": "/dreamhouse/static/js/2.51da76fd.chunk.js.map",
     "index.html": "/dreamhouse/index.html",
-    "static/css/main.be13f410.chunk.css.map": "/dreamhouse/static/css/main.be13f410.chunk.css.map",
+    "static/css/main.bbb95d1f.chunk.css.map": "/dreamhouse/static/css/main.bbb95d1f.chunk.css.map",
     "static/js/2.51da76fd.chunk.js.LICENSE.txt": "/dreamhouse/static/js/2.51da76fd.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dreamhouse/static/media/Raleway-Thin.ce03083c.ttf",
     "static/media/Project.css": "/dreamhouse/static/media/Vector2.5bf14f49.svg",
@@ -46,7 +46,7 @@
   "entrypoints": [
     "static/js/runtime-main.7642a89f.js",
     "static/js/2.51da76fd.chunk.js",
-    "static/css/main.be13f410.chunk.css",
+    "static/css/main.bbb95d1f.chunk.css",
     "static/js/main.44291a91.chunk.js"
   ]
 }
